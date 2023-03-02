@@ -1,0 +1,10 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+AIE
+JinroX
+old
+db.sqlite3
+/static
+.DS_Store
